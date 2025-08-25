@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ravi Kumar  
+✨ Hello World! I'm Ravi Kumar, crafting web & AI solutions with code 💡
 
 🎓 B.Tech CSE @ Uttaranchal University (2022–2026)  
 💻 Web Developer | WordPress | React | PHP | DSA in C++  
