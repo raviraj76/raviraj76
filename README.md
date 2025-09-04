@@ -1,6 +1,7 @@
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=RAVI%20KUMAR&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%20Full-Stack%20Developer%20%7C%20AI%20Solutions%20Architect&descAlignY=51&descSize=18)
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=24&duration=3000&pause=800&color=8B0000&center=true&vCenter=true&width=900&lines=🏆+CRAFTING+PREMIUM+DIGITAL+SOLUTIONS;⭐+ARCHITECTING+NEXT-GEN+APPLICATIONS;💫+TRANSFORMING+VISIONS+INTO+REALITY;🎯+DELIVERING+ENTERPRISE-GRADE+EXCELLENCE" alt="Premium Typing Animation"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=28&duration=4000&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=🚀+Transforming+Ideas+Into+Digital+Excellence;💡+Building+Next-Generation+Web+Solutions;🎯+Creating+AI-Powered+Applications;⚡+Delivering+High-Performance+Systems" alt="Professional Typing Animation"/>
 
